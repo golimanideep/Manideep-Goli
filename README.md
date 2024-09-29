@@ -4,7 +4,7 @@
 <br>
 
 ## 💫 About Me:
-- 💬 Ask me about Full Stack Software Development.
+- 💬 Ask me about Full Stack web Development.
 - 😄 Pronouns: He/ His
 - 📫 How to reach me **manideeppatel5@gmail.com**
 - portfolio:[Saiteja-Goli](https://saiteja-goli.github.io) 
