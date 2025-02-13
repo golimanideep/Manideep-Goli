@@ -7,7 +7,6 @@
 - 💬 Ask me about Full Stack web Development.
 - 😄 Pronouns: He/ His
 - 📫 How to reach me **manideeppatel5@gmail.com**
-- portfolio:[Saiteja-Goli](https://saiteja-goli.github.io) 
 
 ## 💻 Tech Stack:
 
