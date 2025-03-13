@@ -4,7 +4,7 @@
 <br>
 
 ## 💫 About Me:
-- 💬 Ask me about Full Stack web Development.
+- 💬 Ask me about Full Stack Java Development.
 - 😄 Pronouns: He/ His
 - 📫 How to reach me **manideeppatel5@gmail.com**
 
